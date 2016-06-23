@@ -1,0 +1,2 @@
+# readKafKaToHdfs
+storm从Kafka读取数据写入到Hdfs中
